@@ -1,0 +1,15 @@
+﻿  소스.cpp
+c:\users\박지수\source\repos\algorithm\algorithm\소스.cpp(24): warning C4244: 'return': 'double'에서 'clock_t'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\박지수\source\repos\algorithm\algorithm\소스.cpp(49): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\박지수\source\repos\algorithm\algorithm\소스.cpp(119): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\박지수\source\repos\algorithm\algorithm\소스.cpp(121): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\박지수\source\repos\algorithm\algorithm\소스.cpp(142): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\박지수\source\repos\algorithm\algorithm\소스.cpp(166): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\박지수\source\repos\algorithm\algorithm\소스.cpp(170): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\박지수\source\repos\algorithm\algorithm\소스.cpp(187): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\박지수\source\repos\algorithm\algorithm\소스.cpp(207): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\박지수\source\repos\algorithm\algorithm\소스.cpp(266): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\박지수\source\repos\algorithm\algorithm\소스.cpp(296): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\박지수\source\repos\algorithm\algorithm\소스.cpp(309): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\박지수\source\repos\algorithm\algorithm\소스.cpp(58): warning C4172: 지역 변수 또는 임시: temp의 주소를 반환하고 있습니다.
+  algorithm.vcxproj -> C:\Users\박지수\source\repos\algorithm\Debug\algorithm.exe
